@@ -1,0 +1,6 @@
+GoogleTranslator
+python-telegram-bot
+random
+requests
+sqlalchemy
+flask
